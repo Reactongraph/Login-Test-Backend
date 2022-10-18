@@ -1,6 +1,13 @@
 # Login-Test-Backend
 
-* To start the server run command = npm install and then npm run dev
+#MySQL Database has been used
+
+* To start the server run following commands 
+* ` npm install` 
+* ` npm run dev`
+
+# Server will Start runnig on Port 8000
+
 * .env file is needed which contain following list.
 PORT
 JWT_SECRET
